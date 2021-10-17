@@ -15,4 +15,4 @@ Directions: Create an array called udaciFamily and add "Julia", "James", and you
 
 // your code goes here
 var udaciFamily = ["Julia","James","Mohamed"];
-console.log(udaciFamily)
+console.log(udaciFamily);
